@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Junior Frontend Developer. 
+-🔭 Я ищу работу фронтенд-разработчиком - удаленно или в офисе в Санкт-Петербурге.
+-📄 Мое резюме: [HH.ru](https://spb.hh.ru/applicant/resumes/view?resume=2e57b1faff0c2cb3ce0039ed1f5736536e6451)
+-📧 Моя почта: artemvolk2099@yandex.ru
 
-How to contact me: Just send email to artemvolk2099@yandex.ru
 
 ## My tech stack
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
