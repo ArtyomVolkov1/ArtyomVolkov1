@@ -18,7 +18,7 @@ I'm a Junior Frontend Developer.
 
 -🔭 Я ищу работу фронтенд-разработчиком - удаленно или в офисе в Санкт-Петербурге.
 
--📄 Мое резюме: [HH.ru](https://spb.hh.ru/applicant/resumes/view?resume=2e57b1faff0c2cb3ce0039ed1f5736536e6451)
+-📄 Мое резюме: [Hexlet CV](https://cv.hexlet.io/ru/resumes/2417)
 
 -📧 Моя почта: artemvolk2099@yandex.ru
 
