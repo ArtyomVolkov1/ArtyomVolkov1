@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-💼 Портфолио: [Portfolio](https://artyomvolkov1.github.io/portfolio/)
 -->
 I'm a Frontend Developer.
 
@@ -21,9 +22,6 @@ I'm a Frontend Developer.
 -📄 Мое резюме: [Hexlet CV](https://cv.hexlet.io/ru/resumes/2417)
 
 -📧 Моя почта: artemvolk2099@yandex.ru
-
--💼 Портфолио: [Portfolio](https://artyomvolkov1.github.io/portfolio/)
-
 
 ## My tech stack
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
