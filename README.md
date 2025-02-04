@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -💼 Портфолио: [Portfolio](https://artyomvolkov1.github.io/portfolio/)
 -🔭 Я ищу работу фронтенд-разработчиком - удаленно или в офисе в Санкт-Петербурге.
 -📄 Мое резюме: [Hexlet CV](https://cv.hexlet.io/ru/resumes/2417)
--->
-I'm a Frontend Developer.
+
+I'm a  Developer.
 
 -📧 Моя почта: artemvolk2099@yandex.ru
-
+-->
 ## My tech stack
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
